@@ -25,7 +25,7 @@ The minimum setup to use the weart SDK consists of:
 ## pip
 This repository can be fetched using
 ```sh
-pip install weartsdk
+pip install weartsdk-sky
 ```
 
 ## Local

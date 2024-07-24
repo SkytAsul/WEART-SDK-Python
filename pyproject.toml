@@ -1,5 +1,5 @@
 [project]
-name = "weartsdk"
+name = "weartsdk-sky"
 version = "#{VERSION}#"
 authors = [
   { name="Emanuele De Santis", email="trunk96@gmail.com" },
